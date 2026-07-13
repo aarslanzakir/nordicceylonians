@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "eyebrow": "Education • Migration • Finland",
+    "titleLead": "Chart your future with",
+    "titleHighlight": "professional visa support",
+    "lead": "Your gateway to a world of opportunities — backed by reliable, experienced professionals guiding you from admission to arrival in Finland.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Students Guided"
+      },
+      {
+        "value": "98%",
+        "label": "Visa Success"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Global Education",
+      "text": "We help students find and apply to the right universities abroad, with a special focus on Finland — making admissions simple and stress-free.",
+      "slug": "global-education",
+      "tagline": "Find and apply to the right university, stress-free",
+      "details": "Choosing where to study abroad is one of the biggest decisions you'll make — and it shouldn't feel overwhelming. We work closely with you to understand your goals, academic background, and budget, then match you with accredited universities in Finland and beyond that truly fit.\n\nFrom shortlisting programmes to preparing a strong application, we handle the details so you can focus on your future. Our team reviews every document, sharpens your statement of purpose, and keeps you on track through each deadline.",
+      "features": [
+        "Personalised programme and university shortlisting",
+        "Application review and statement-of-purpose guidance",
+        "Document preparation and deadline tracking",
+        "Special focus on accredited Finnish institutions"
+      ]
+    },
+    {
+      "title": "Migration Consultancy",
+      "text": "Our consultants guide you through the full visa and residence-permit process, handling every document so your move is smooth and reliable.",
+      "slug": "migration-consultancy",
+      "tagline": "A smooth, reliable path to your residence permit",
+      "details": "Visas and residence permits can be the most stressful part of moving abroad. Our consultants know the Finnish immigration process inside out and guide you through every step — so nothing is left to chance.\n\nWe prepare and check your paperwork, help you meet financial and documentation requirements, and keep your case moving. You'll always know what happens next and what's expected of you.",
+      "features": [
+        "End-to-end visa and residence-permit support",
+        "Complete document preparation and verification",
+        "Guidance on financial and eligibility requirements",
+        "Clear timelines and status updates at every step"
+      ]
+    },
+    {
+      "title": "Life Coaching",
+      "text": "We support you beyond paperwork — helping you adjust to a new culture, build confidence, and settle successfully into your new life.",
+      "slug": "life-coaching",
+      "tagline": "Settle in with confidence, not just paperwork",
+      "details": "Getting the visa is only the beginning. Building a new life in a new country takes support — and that's where we go further than most consultancies.\n\nWe help you adjust to a new culture, understand daily life in Finland, and build the confidence to thrive. From practical settling-in advice to encouragement when you need it, we're with you well beyond arrival.",
+      "features": [
+        "Cultural adjustment and settling-in guidance",
+        "Confidence-building and goal-setting sessions",
+        "Practical advice on daily life in Finland",
+        "Ongoing support after you arrive"
+      ]
+    },
+    {
+      "title": "Business Agreement Drafting",
+      "text": "We draft professional business agreements and contracts that are clear, accurate, and properly structured — documents you can rely on.",
+      "slug": "business-agreement-drafting",
+      "tagline": "Clear, accurate contracts you can rely on",
+      "details": "Good agreements protect everyone involved. We draft professional business contracts and agreements that are clear, accurate, and properly structured — so your interests are covered and there's no room for misunderstanding.\n\nWhether you need a partnership agreement, service contract, or a bespoke document, we make sure the language is precise and the terms are sound.",
+      "features": [
+        "Professionally drafted business agreements",
+        "Clear, precise, and properly structured language",
+        "Tailored to your specific needs and terms",
+        "Accurate documents you can depend on"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "tag": "Bachelor Top-Up",
+      "title": "Nursing (Healthcare)",
+      "text": "Upgrade your nursing qualification to a Finnish bachelor's degree.",
+      "duration": "1–1.5 yrs",
+      "intake": "Sep / Jan"
+    },
+    {
+      "tag": "Master's",
+      "title": "MBA — Business",
+      "text": "Advance your career with an internationally recognised MBA.",
+      "duration": "1.5–2 yrs",
+      "intake": "Sep"
+    },
+    {
+      "tag": "Doctoral",
+      "title": "PhD — Computer Science",
+      "text": "Research-focused doctoral programs in science and technology.",
+      "duration": "3–4 yrs",
+      "intake": "Rolling"
+    },
+    {
+      "tag": "Bachelor",
+      "title": "Business Administration",
+      "text": "Foundational business degree taught fully in English.",
+      "duration": "3.5 yrs",
+      "intake": "Sep"
+    },
+    {
+      "tag": "Master's",
+      "title": "Information Technology",
+      "text": "Specialise in software, data, and modern IT systems.",
+      "duration": "2 yrs",
+      "intake": "Sep"
+    },
+    {
+      "tag": "Language",
+      "title": "English Preparation",
+      "text": "Improve your English to meet university entry requirements.",
+      "duration": "Flexible",
+      "intake": "Any time"
+    }
+  ],
+  "stories": [
+    {
+      "initial": "A",
+      "name": "Adithi Welhenage",
+      "role": "Bachelor of Health Care",
+      "quote": "Nordic Ceylonians made my dream of studying in Finland a reality. Their guidance through the visa process was flawless."
+    },
+    {
+      "initial": "K",
+      "name": "Koshali Mendis",
+      "role": "Tourism & Hospitality Management",
+      "quote": "From admission to arrival, they supported me at every step. Truly professional and honest people."
+    },
+    {
+      "initial": "P",
+      "name": "Piyumi Kinsuka",
+      "role": "Nursing Graduate",
+      "quote": "My deepest gratitude for turning my greatest dream into reality. I couldn't have done it without them."
+    }
+  ],
+  "contact": {
+    "email": "info@nordicceylonians.com",
+    "phone": ["+358 40 6643530", "+94 78 794 9736", "+94 77 123 1125"],
+    "office": "Nordic Ceylonians OY, Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates"
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
+    "why": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80"
+  }
+}
